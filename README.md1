@@ -1,0 +1,56 @@
+📊 Social Media Data Analysis
+
+📌 Project Overview
+
+This project focuses on analyzing social media data using Python and data visualization techniques. It helps understand post performance and audience engagement.
+
+🎯 Project Objectives
+
+- Analyze social media performance.
+- Compare different post types.
+- Understand audience engagement.
+- Visualize data through graphs and charts.
+
+🛠️ Technologies Used
+
+- Python
+- Pandas
+- Matplotlib
+- Streamlit
+- Visual Studio Code
+
+📈 Key Features
+
+- Social Media Data Analysis
+- Post Type Wise Average Likes
+- Data Visualization
+- Interactive Dashboard
+- Performance Analysis
+
+🔍 Project Workflow
+
+1. Data Collection
+2. Data Processing
+3. Data Analysis
+4. Data Visualization
+5. Dashboard Development
+
+🚀 Future Scope
+
+- AI-Based Performance Prediction
+- Sentiment Analysis
+- Real-Time Social Media Data
+- Advanced Interactive Dashboard
+- Social Media Platform Comparison
+
+👨‍💻 Developed By – Project Team
+
+1. Prithavi Kumar
+
+🎓 Course
+
+Bachelor of Computer Applications (BCA)
+
+💻 Project Type
+
+Academic / Final Year Project
